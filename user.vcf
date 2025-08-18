@@ -7,8 +7,8 @@ ORG:NMRLC;
 TITLE:Director of Operations
 EMAIL;type=INTERNET;type=WORK;type=pref:eric.j.gonzales.mil@health.mil
 TEL;type=WORK;type=VOICE:+1 5122709063
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;564 Sanda Ave, Williamsburg, VA 23185\
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.med.navy.mil/Naval-Medical-Readiness-Logistics-Command/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
