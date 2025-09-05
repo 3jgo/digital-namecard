@@ -10,7 +10,5 @@ item2.TEL:+1-757-256-3358
 item2.X-ABLabel:Personal Cell
 item3.TEL;TYPE=WORK,VOICE:+1-757-788-7630
 item3.X-ABLabel:Work Voice
-TEL;TYPE=WORK,VOICE:+1-757-788-7630
-TEL;TYPE=CELL:+1-757-256-3358
 EMAIL;TYPE=INTERNET,WORK:eric.j.gonzales.mil@health.mil
 END:VCARD
