@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:4.0
 N:Gonzales;Eric;;;
-FN: Eric  Gonzales 🚀
-EMAIL;type=INTERNET;type=WORK;type=pref:eric.j.gonzales.mil@health.mil
-TEL;type=cell,home; VALUE=uri;tel::+1-757-256-3358
-TEL;type=cell,work; VALUE=uri;tel::+1-757-846-8249
-TEL;type=work, voice; VALUE=uri;tel::+1-757-887-7630
+FN: Eric Gonzales 🚀
+EMAIL;type=INTERNET;type=WORK;PREF:true:eric.j.gonzales.mil@health.mil
+TEL;type=cell,home;value=uri:tel:+1-757-256-3358
+TEL;type=cell,work;value=uri:tel:+1-757-846-8249
+TEL;type=work,voice;value=uri:tel:+1-757-887-7630
 END:VCARD
